@@ -1,20 +1,20 @@
 # Hero Blossom Glow
 
-[![TypeScript](https://img.shields.io/badge/TypeScript-92.3%25-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/) [![React](https://img.shields.io/badge/React-UI-61DAFB?logo=react&logoColor=black)](https://react.dev/) [![Responsive](https://img.shields.io/badge/Design-Responsive-8B5CF6)](https://github.com/Muhammad-Ahmad-CO/hero-blossom-glow)
+[![TypeScript](https://img.shields.io/badge/TypeScript-92.3%25-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/) [![React](https://img.shields.io/badge/React-UI-61DAFB?logo=react&logoColor=white)](https://react.dev/) [![Vite](https://img.shields.io/badge/Vite-5.4-646CFF?logo=vite&logoColor=white)](https://vitejs.dev/)
 
 ## Live Website Preview
 
-> The repository currently does not include a verified public live URL. Add the deployed URL here when available.
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Hero_Blossom_Glow-FF6F91?logo=vercel&logoColor=white)](https://hero-blossom-glow.lovable.app)
 
 [![View Repository](https://img.shields.io/badge/View_Repository-GitHub-181717?logo=github)](https://github.com/Muhammad-Ahmad-CO/hero-blossom-glow)
 
 ## Overview
 
-Hero Blossom Glow is a premium beauty and wellness digital experience designed to elevate a skincare and self-care brand through refined storytelling, modern product presentation, and conversion-focused UX. The project combines luxury branding, elegant motion design, and a mobile-first customer journey.
+Hero Blossom Glow is a premium beauty and wellness digital experience designed to elevate a skincare and self-care brand through refined storytelling, modern product presentation, and conversion-focused design.
 
 ## Brand Positioning
 
-The experience presents Hero Blossom Glow as a premium lifestyle brand for customers who value self-care, glow, confidence, and elevated everyday rituals. It is designed to build emotional connection while helping visitors discover products, understand the brand, and take action.
+The experience presents Hero Blossom Glow as a premium lifestyle brand for customers who value self-care, glow, confidence, and elevated everyday rituals. It is designed to build emotional connection through immersive product storytelling and polished brand cues.
 
 ## Core Features
 
