@@ -1,73 +1,100 @@
-# Welcome to your Lovable project
+# Hero Blossom Glow
 
-## Project info
+A premium beauty and wellness brand website designed to showcase a modern skincare, glow, and self-care identity with a clean luxury aesthetic. The experience is tailored to create an elevated first impression, communicate product value clearly, and encourage customer trust and engagement.
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+## Overview
 
-## How can I edit this code?
+Hero Blossom Glow is a responsive, conversion-focused landing website created for a beauty brand that wants to feel elegant, modern, and trustworthy. The project emphasizes brand storytelling, product positioning, and a polished digital experience that feels premium across desktop and mobile devices.
 
-There are several ways of editing your application.
+## Brand Purpose
 
-**Use Lovable**
+The website is built to help visitors:
+- understand the brand story and beauty philosophy
+- discover key skincare and wellness offerings
+- explore product categories and transformations
+- build trust through premium presentation and content
+- take action through contact, booking, or inquiry pathways
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+## Core Features
 
-Changes made via Lovable will be committed automatically to this repo.
+- Luxury-inspired hero section with strong branding
+- Fully responsive layout for mobile, tablet, and desktop
+- Clean and premium visual system using soft neutrals and glow tones
+- Service or product highlight sections
+- Conversion-oriented calls to action
+- Modern, polished UI with smooth motion and transitions
+- Scalability for future additions such as product listings, testimonials, and checkout flows
 
-**Use your preferred IDE**
+## Project Goals
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+- Establish a premium beauty brand presence
+- Present the brand as modern, elegant, and trustworthy
+- Increase customer engagement and product discovery
+- Deliver a smooth browsing experience
+- Create a foundation for future growth and expansion
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+## Website Structure
 
-Follow these steps:
+The landing page is designed to include:
+1. Hero section with compelling brand messaging
+2. Product or service categories
+3. Brand story / about section
+4. Benefits and transformation highlights
+5. Testimonials or social proof
+6. Contact / inquiry call-to-action
+7. Footer with essential brand details
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+## Design Direction
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+The visual direction is premium and feminine, with a focus on:
+- soft gradients and warm glow accents
+- refined spacing and elegant typography
+- clean cards and modern section blocks
+- mobile-first responsiveness
+- subtle motion to enhance the luxury feel without clutter
 
-# Step 3: Install the necessary dependencies.
-npm i
+## Tech Stack
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+- React
+- TypeScript
+- Vite
+- Tailwind CSS
+- Framer Motion
+- Modern CSS styling and UI patterns
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js
+- npm
+
+### Installation
+
+```bash
+git clone <repository-url>
+cd hero-blossom-glow
+npm install
 npm run dev
 ```
 
-**Edit a file directly in GitHub**
+### Production Build
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+```bash
+npm run build
+```
 
-**Use GitHub Codespaces**
+## Deployment
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+This project is suitable for deployment on:
+- Vercel
+- Netlify
+- any modern static hosting platform
 
-## What technologies are used for this project?
+## Notes
 
-This project is built with:
+Hero Blossom Glow is designed as a polished, brand-first website that blends premium aesthetics with a user-friendly interface. It is structured to support marketing goals while maintaining an elegant and scalable frontend foundation.
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+---
 
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+This project was built with [Lovable](https://lovable.dev).
